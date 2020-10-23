@@ -38,10 +38,10 @@ git clone https://github.com/daniel-koti/happy
 cd proffy
 
 # Baixar as dependências
-npm i
+npm install
 
 # Executar o servidor
-npm run dev
+npm start
 ```
 
 Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
