@@ -35,7 +35,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 git clone https://github.com/daniel-koti/happy
 
 # Entrar no diretório
-cd proffy
+cd happy
 
 # Baixar as dependências
 npm install
